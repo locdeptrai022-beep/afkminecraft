@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "3667skibidi.aternos.me:53209",
+    "ip": "3667skibidi.aternos.me",
     "port": 53209,
     "version": "",
     "try-creative": false
